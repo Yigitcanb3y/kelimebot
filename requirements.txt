@@ -1,0 +1,17 @@
+pyrogram==1.4.12
+tgcrypto
+telethon
+python-dotenv
+pyTelegramBotAPI==4.4.0
+requests==2.27.1
+ujson==5.1.0
+aiohttp
+matplotlib
+requests
+aiofiles
+asyncio
+ffmpeg-python
+ffmpeg
+Pillow
+ujson
+telebot
